@@ -1,0 +1,22 @@
+# build directory
+target/
+msgs/
+
+# Log file
+*.log
+
+# IntelliJ project files
+.idea/
+*.ipr
+*.iws
+*.iml
+out
+gen
+
+# STS/Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
